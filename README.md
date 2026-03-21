@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**alexb562/alexb562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🎓💻🛠️ Higher Technician in Computer Systems Administration and Networking (Grado Superior ASIR)
+Profesional multicultural con pasión por la ciberseguridad y la privacidad. Formado en Alemania y Estados Unidos (doble nacionalidad), aporto una visión tanto filosófica como técnica para proteger nuestro mundo digital.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🔧 Skills
+🐧 Linux
+🪓 Pentesting (Metasploit, Nmap)
+🔐 Privacy Standards
+🧯 SIEM Tools
+🎯 Systems Administration
+#🚀 About me
+Estudiante de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR)
+Formación internacional: Alemania & USA (doble nacionalidad)
+Intereses: ciberseguridad, privacidad, infraestructuras y automatización
+#📂 Highlights
+Lab: pentesting with Metasploit & Nmap
+Tools: SIEM platforms, Linux servers, virtualization, cloud basics
+Focus: privacy-compliant security practices and defense-in-depth
