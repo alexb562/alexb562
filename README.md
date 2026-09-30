@@ -7,5 +7,5 @@ I currently am studying Systems Administration (administración de sistemas info
 # 🔧 Skills
 - 🐧 Linux/Windows - Virtualization, Active Directory/LDAP, User Management
 - 🪓 Pentesting - Nmap, Metasploit, OpenVAS, Burp Suite
-- 🎯 Systems Administration - Packet Tracer, bash/zsh, PowerShell
+- 🎯 Systems Administration - GNS3, bash/zsh, PowerShell
 - 🔐 Privacy Standards - GDPR, NIST/ISO, HIPAA
