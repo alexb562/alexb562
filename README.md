@@ -8,4 +8,5 @@ I currently am studying Systems Administration (administración de sistemas info
 - 🐧 Linux/Windows - Virtualization, Active Directory/LDAP, User Management
 - 🪓 Pentesting - Nmap, Metasploit, OpenVAS, Burp Suite
 - 🎯 Systems Administration - GNS3, bash/zsh, PowerShell
+- 🛠️ Programming - PHP, Python
 - 🔐 Privacy Standards - GDPR, NIST/ISO, HIPAA
